@@ -1,0 +1,136 @@
+/*
+Author Name
+Autohr Info Here
+*/
+
+/* ======Index=======
+
+1.Home
+2.About
+3.Our Work
+4.Contact
+5.
+=====================
+*/
+
+
+/* Global CSS */
+
+body {
+	font-family: 'Roboto Slab', serif;
+
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.img-center {
+	display: block;
+	margin: 0 auto;
+}
+
+h1 {
+
+}
+
+h2 {
+
+
+}
+h3 {
+
+
+}
+
+p {
+	font-size: 15px;
+
+}
+
+
+/*navigation section start*/
+.menu {
+	background-color: #edeff1;
+	padding: 25px 0px;
+}
+.nav-link {
+	color: #161616;
+}
+
+.js-scroll-trigger.active {
+    background: #dd4b2b;
+    color: #fff;
+    border-radius: 14px;
+    padding: 4px 11px!important;
+}
+/*Fusce at section start*/
+
+.hero {
+	background:url(../img/banner.png);
+	background-size: cover;
+}
+
+.tittle {
+    padding-top: 300px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.tittle h2 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.tittle p {
+    color: #fff;
+}
+
+.food-menu {
+	text-align: center;
+}
+
+.food-menu h2{
+	color: #fff;
+	margin: 10px 0px;
+	
+}
+
+.food-menu p{
+	color: #fff;
+	
+}
+
+.btn {
+    margin: 28px auto 56px;
+    background: #fff;
+    padding: 6px 20px;
+    color: darkred;
+    border-radius: 12px;
+}
+h2{
+text-align: center;
+}
+p{
+text-align: center;
+}
+.btn-one{
+margin: 0 auto;
+    display: block;
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.img-con{
+
+}
+.first{
+	background-color: #1111;
+    padding-top: 70px;
+    padding-bottom: 65px;
+}
+.second{
+	
+}
